@@ -2,6 +2,6 @@
 
 npm install
 
-change .env folder with your criedentials
+change .env folder with your credentials
 
 node app.js
